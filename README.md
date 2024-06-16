@@ -5,4 +5,4 @@
 #
 ![stats](https://raw.githubusercontent.com/0nvg/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![langs](https://raw.githubusercontent.com/0nvg/github-stats/master/generated/languages.svg#gh-light-mode-only)
-[![prsnc](https://lanyard-profile-readme.vercel.app/api/914570803167756298?theme=light&bg=ffffff&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=aint%20doin%20nun)](https://discord.com/users/914570803167756298)
+[![discord](https://lanyard.cnrad.dev/api/1127292956009840751?bg=fff8ee&theme=light&idleMessage=%20Message+me+on+Discord%2C+I’m+no+longer+active+on+Github.)](https://discord.com/users/1127292956009840751)
