@@ -3,30 +3,15 @@
 <br>
 
 ## *Field*
-<a href="https://python.org">
-  <img src="https://img.shields.io/badge/PY-14354C?style=for-the-badge&logo=python&logoColor=white)"/>
-</a>
-<a href="https://lua.org">
-  <img src="https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)"/>
-</a>
-<a href="https://dotnet.microsoft.com">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)"/>
-</a>
-<a href="https://php.net">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
-<a href="https://mysql.com">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-<a href="https://sqlite.org">
-  <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</a>
-<a href="https://apache.org">
-  <img src="https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-</a>
-<a href="https://nginx.org">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</a>
+
+![py](https://img.shields.io/badge/PY-14354C?style=for-the-badge&logo=python&logoColor=white)
+![lua](https://img.shields.io/badge/LUA-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![apache](https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![sqlite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <br>
 
@@ -45,6 +30,7 @@
 <br>
 <br>
 
+
 **Telegram:**
 
 <a href="https://t.me/quadnods">
@@ -57,4 +43,3 @@
 **Discord:**
 
 [![discord](https://lanyard.cnrad.dev/api/1435048441855217715?theme=light&bg=ffffff&hideActivity=true)](https://discord.com/users/1435048441855217715)
-
