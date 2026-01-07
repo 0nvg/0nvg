@@ -16,7 +16,7 @@
 
 <br>
 
-![langs](https://raw.githubusercontent.com/0nvg/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![langs](https://raw.githubusercontent.com/0nvg/github-stats-v2/master/generated/languages.svg#gh-light-mode-only)
 
 <br>
 
