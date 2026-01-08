@@ -22,25 +22,20 @@
 
 ## *Contact*
 
-**Signal:** (fastest & guaranteed response)
-
+**Signal:** (fastest & guaranteed response) <br>
 <a href="https://signal.me/#eu/ImQy00xJXfUaCEF1uxlrv21fFkK_W96QyBZ3YSlG3YOBpzkRSPVNspWIhxq5Gzlf">
   <img src="https://img.shields.io/badge/__9999999999999999999999999999999.999999999-3A76F0?style=for-the-badge&logo=signal&logoColor=white"/>
 </a>
 
 <br>
-<br>
 
 
-**Telegram:**
-
+**Telegram:** <br>
 <a href="https://t.me/quadnods">
   <img src="https://img.shields.io/badge/quadnods-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <br>
-<br>
 
-**Discord:**
-
+**Discord:** <br>
 [![discord](https://lanyard.cnrad.dev/api/1435048441855217715?theme=light&bg=ffffff&hideActivity=true)](https://discord.com/users/1435048441855217715)
